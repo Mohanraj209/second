@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 this is example file fsfkjdndsfksndf friday
 this is madhu line
 this is siva line
 this is godfred working here fskahfsafd great
+=======
+this is example file friday
+this is madhu line
+this is siva line
+this is godfred working here great
+>>>>>>> fa8225b... added end line
 this is madhu working here
