@@ -26,7 +26,7 @@ jobs:
     - name: java version
       run: java -version
     - name: maven version
-      run: mvn --version
+      run: mvn --versionnaskjsdnandndlns
     - name: python version
       run: python --version
     - name: docker version
